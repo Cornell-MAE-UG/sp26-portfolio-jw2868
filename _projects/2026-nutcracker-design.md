@@ -3,7 +3,7 @@ layout: project
 title: Nutcracker Design
 description: Class assignment for ENGRD 2020
 technologies: [Goodnotes]
-image: /assets/images/nutcracker-design.png
+image: /assets/images/Nutcracker Design.png
 ---
 
 
