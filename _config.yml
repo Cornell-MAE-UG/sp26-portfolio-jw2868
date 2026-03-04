@@ -13,7 +13,7 @@ title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : Jingbo Wang 
 description              : Jingbo Wang - Projects and CV 
-baseurl                  : "" # Set this to your repo name 
+baseurl                  : "/sp26-portfolio-jw2868/" 
 
 # Theme and Style
 theme: jekyll-theme-minimal
